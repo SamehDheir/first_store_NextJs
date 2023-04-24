@@ -1,0 +1,28 @@
+.product {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.product h2 {
+    font-size: 15px;
+
+}
+
+.price {
+    font-weight: 900;
+}
+
+.read_more {
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border: 0;
+    background-color:yellow;
+}
+
+.read_more:hover {
+    background-color: white;
+    border: 1px solid gray;
+}

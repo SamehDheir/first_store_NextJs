@@ -1,0 +1,28 @@
+.nav {
+  box-shadow: 3px 5px 10px #ccc;
+  padding: 10px;
+  
+  background-color: rgb(240, 238, 238);
+
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav .logo {
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+
+.nav ul {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  list-style: none;
+}
+
+
